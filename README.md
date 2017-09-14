@@ -1,0 +1,2 @@
+# lazy-propagation
+segmented tree
