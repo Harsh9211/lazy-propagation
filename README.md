@@ -111,3 +111,4 @@ int main()
 	}
 	cout << endl << rangeminquery(segmenttree,lazytree,0,3,0,7,0) << endl;
 }
+//lets see
